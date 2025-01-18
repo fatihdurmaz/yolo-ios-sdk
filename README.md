@@ -1,4 +1,9 @@
 # YOLO SDK for iOS Swift Package
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS%20-red.svg)
+![Platform](https://img.shields.io/badge/SwiftUI-%205-blue.svg)
+![Platform](https://img.shields.io/badge/UIKit-teal.svg)
+![License](https://img.shields.io/badge/License-MIT-brown.svg)
 
 Welcome to the YOLO iOS Swift Package repository! This package simplifies the integration of YOLO (You Only Look Once) object detection models into your iOS applications. It allows you to easily run real-time object detection with CoreML models directly on iOS devices.
 
